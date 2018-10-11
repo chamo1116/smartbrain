@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -20,10 +20,6 @@
     "to": "^0.2.9",
     "update": "^0.7.4",
     "nodemon": "^1.18.4"
-  },
-  "engines": {
-    "node": "5.0.0",
-    "npm": "4.6.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.4"
